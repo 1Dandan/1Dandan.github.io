@@ -10,7 +10,7 @@ redirect_from:
 I am currently looking for PostDoc Opportunities!
 =======
 
-Welcome! My name is Dandan Zhang (张丹丹). I am a PhD student working with [Randall Martin](https://sites.wustl.edu/acag/) in the [Department of Energy, Environmental, and Chemical Engineering](https://eece.wustl.edu/index.html) at Washington University in St. Louis.
+Welcome! My name is Dandan Zhang. I am a PhD student working with [Randall Martin](https://sites.wustl.edu/acag/) in the [Department of Energy, Environmental, and Chemical Engineering](https://eece.wustl.edu/index.html) at Washington University in St. Louis.
 
 My research focuses on the application and development of air quality modeling in combination with ground-based and satellite obseravtions. I have been working on the effects of model spatial resolution on population exposure to air pollutants, source sectors contributions, and satellite-derived geophysical fine particulate matter. I am also interested in model development, and currently working on improving mineral dust simulations in a chemical transport model [GEOS-Chem](https://geoschem.github.io/index.html).
 
