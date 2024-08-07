@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently looking for PostDoc Opportunities!
+I am currently looking for PostDoc opportunities!
 =======
 
 Welcome! My name is Dandan Zhang. I am a PhD student working with [Randall Martin](https://sites.wustl.edu/acag/) in the [Department of Energy, Environmental, and Chemical Engineering](https://eece.wustl.edu/index.html) at Washington University in St. Louis.
