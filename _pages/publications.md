@@ -9,6 +9,21 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+Under review & submitted
+-----
+<ol reversed>
+<li style="padding-left: 6px;"> van Donkelaar, A., Ford, B., Li, C., Pappin, A. J., Shen, S., <b>Zhang, D.</b>, Martin, R. V. North American Chemical Composition for 2000-2022 from Satellites, Models, and Monitors: The Changing Contribution of Wildfires to North American Fine Particulate Component Concentrations. [under review] </li>
+
+<li style="padding-left: 6px;"> Chatterjee, D., Martin, R. V., Li, C., <b>Zhang, D.</b>, Zhu, H., Henze, D. K., Crawford, J. H., Cohen, R. C., Lamsal, L. N., Cede, A. M. Interpreting Summertime Hourly Variation of NO<sub>2</sub> Columns with Implications for Geostationary Satellite Applications. [under review] </li>
+
+<li style="padding-left: 6px;"> Zhu, H., Martin, R. V., van Donkelaar, A., Hammer, M. S., Li, C., Meng, J., Oxford, C. R., Liu, X., Li, Y., <b>Zhang, D.</b>, Singh, I., Lyapustin, A. Importance of Aerosol Composition and Aerosol Vertical Profile in Global Spatial Variation in the PM<sub>2.5</sub> to AOD Relationship. [under review] </li>
+
+<li style="padding-left: 6px;"> Lu, G., Marais, E. A., Vohra, K., Horner, R. P., <b>Zhang, D.</b>, Martin, R. V., Guttikunda, S. Near-Automated Estimate of City Nitrogen Oxides Emissions Applied to South and Southeast Asia. [under review] </li>
+
+<li style="padding-left: 6px;"> Croft, B., Martin, R. V., Chang, R. Y-W., Bindle, L., Eastham, S. D., Estrada, L., Ford B., Li, C., Long, M. S., Lundgren, E. W., Sinha, S., Sulprizio, M. P., Tang Y., van Donkelaar, A., Yantosca, R. M., <b>Zhang, D.</b>, Zhu, H., Pierce, J. R. Towards fine horizontal resolution global simulations of aerosol sectional microphysics: Advances enabled by GCHP-TOMAS. [under review] </li>
+
+</ol>
+
 Peer-reviewed
 -----
 <ol reversed>
