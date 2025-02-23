@@ -14,7 +14,7 @@ Peer-reviewed
 <ol reversed>
 <li style="padding-left: 6px;"> Lu, G., Marais, E. A., Vohra, K., Horner, R. P., <b>Zhang, D.</b>, Martin, R. V., & Guttikunda, S. (2025) Near-Automated Estimate of City Nitrogen Oxides Emissions Applied to South and Southeast Asia. <i>Journal of Geophysical Research: Atmospheres</i>, 130(2), e2024JD041000. [<a href="https://doi.org/10.1029/2024JD041000">Link</a>] </li>
 
-<li style="padding-left: 6px;"> Chatterjee, D., Martin, R. V., Li, C., <b>Zhang, D.</b>, Zhu, H., Henze, D. K., Crawford, J. H., Cohen, R. C., Lamsal, L. N., & Cede, A. M. (2024) Interpreting Summertime Hourly Variation of NO<sub>2</sub> Columns with Implications for Geostationary Satellite Applications. <i>Atmospheric Chemistry and Physics</i>, 24 (22), 12687-12706. [<a href="https://doi.org/10.5194/acp-24-12687-2024">Link</a>] </li>
+<li style="padding-left: 6px;"> Chatterjee, D., Martin, R. V., Li, C., <b>Zhang, D.</b>, Zhu, H., Henze, D. K., Crawford, J. H., Cohen, R. C., Lamsal, L. N., & Cede, A. M. (2024) Interpreting Summertime Hourly Variation of NO<sub>2</sub> Columns with Implications for Geostationary Satellite Applications. <i>Atmospheric Chemistry and Physics</i>, 24(22), 12687-12706. [<a href="https://doi.org/10.5194/acp-24-12687-2024">Link</a>] </li>
 
 <li style="padding-left: 6px;"> van Donkelaar, A., Martin, R. V., Ford, B., Li, C., Pappin, A. J., Shen, S., & <b>Zhang, D.</b> (2024) North American Fine Particulate Matter Chemical Composition for 2000-2022 from Satellites, Models, and Monitors: The Changing Contribution of Wildfires. <i>ACS ES&T Air</i>, 1(12), 1589-1600. [<a href="https://doi.org/10.1021/acsestair.4c00151">Link</a>] </li>
 
