@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<i>Updated Feburary 2025</i>
+<i>Updated February 2025</i>
 
 Welcome! My name is Dandan Zhang. I am a PhD student working with [Randall Martin](https://sites.wustl.edu/acag/) in the [Department of Energy, Environmental, and Chemical Engineering](https://eece.wustl.edu/index.html) at Washington University in St. Louis.
 
