@@ -16,7 +16,7 @@ Peer-reviewed
 
 <li style="padding-left: 6px;"> Chatterjee, D., Martin, R. V., Li, C., <b>Zhang, D.</b>, Zhu, H., Henze, D. K., Crawford, J. H., Cohen, R. C., Lamsal, L. N., Cede, A. M. (2024) Interpreting Summertime Hourly Variation of NO<sub>2</sub> Columns with Implications for Geostationary Satellite Applications. <i>Atmospheric Chemistry and Physics</i>, 24 (22), 12687-12706. [<a href="https://doi.org/10.5194/acp-24-12687-2024">Link</a>] </li>
 
-<li style="padding-left: 6px;"> van Donkelaar, A., Martin, R. V., Ford, B., Li, C., Pappin, A. J., Shen, S., <b>Zhang, D.</b>. (2024) North American Fine Particulate Matter Chemical Composition for 2000-2022 from Satellites, Models, and Monitors: The Changing Contribution of Wildfires. <i>ACS ES&T Air</i>, 1(12), 1589-1600. [<a href="https://doi.org/10.1021/acsestair.4c00151">Link</a>] </li>
+<li style="padding-left: 6px;"> van Donkelaar, A., Martin, R. V., Ford, B., Li, C., Pappin, A. J., Shen, S., <b>Zhang, D.</b> (2024) North American Fine Particulate Matter Chemical Composition for 2000-2022 from Satellites, Models, and Monitors: The Changing Contribution of Wildfires. <i>ACS ES&T Air</i>, 1(12), 1589-1600. [<a href="https://doi.org/10.1021/acsestair.4c00151">Link</a>] </li>
 
 <li style="padding-left: 6px;"> Zhu, H., Martin, R. V., van Donkelaar, A., Hammer, M. S., Li, C., Meng, J., Oxford, C. R., Liu, X., Li, Y., <b>Zhang, D.</b>, Singh, I., Lyapustin, A. (2024) Importance of Aerosol Composition and Aerosol Vertical Profile in Global Spatial Variation in the PM<sub>2.5</sub> to AOD Relationship. <i>Atmospheric Chemistry and Physics</i>, 24(20), 11565-11584. [<a href="https://doi.org/10.5194/acp-24-11565-2024">Link</a>] </li>
 
