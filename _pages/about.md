@@ -13,6 +13,6 @@ Welcome! My name is Dandan Zhang. I am a PhD student working with [Randall Marti
 
 My research focuses on the application and development of air quality modeling in combination with ground-based and satellite-based observations. I have been working on the effects of model spatial resolution on population exposure to air pollutants, source sector contributions, and geophysical satellite-derived fine particulate matter. I am also interested in model developments, and currently working on improving fine mineral dust representation in a chemical transport model of [GEOS-Chem](https://geoschem.github.io/index.html).
 
-Prior to my PhD, I received a B.S. in Environmental Sciences and a B.A. in Economics at [Peking University](https://english.pku.edu.cn/) (Beijing, China) in 2019. My undergraduate research was advised by [Wen Liu](https://scholar.google.com.hk/citations?user=ArwW7qgAAAAJ&hl=zh-CN) with a focus on the degradation processes of trace antibiotics in polluted aquatic system by engineered photocatalysts under simulated sunlight.
+Prior to my PhD, I received a B.S. in Environmental Science and a B.A. in Economics at [Peking University](https://english.pku.edu.cn/) (Beijing, China) in 2019. My undergraduate research was advised by [Wen Liu](https://scholar.google.com.hk/citations?user=ArwW7qgAAAAJ&hl=zh-CN) with a focus on the degradation processes of trace antibiotics in polluted aquatic system by engineered photocatalysts under simulated sunlight.
 
 Beyond research, I enjoy hiking, swimming, skiing, and skating.
