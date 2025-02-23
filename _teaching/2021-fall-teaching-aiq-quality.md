@@ -9,4 +9,4 @@ location: "St. Louis, USA"
 ---
 
 I was one of the teaching assistants. This course introduces governing concepts and 
-processes relavant to air quality and pollution control.
+processes relevant to air quality and pollution control.

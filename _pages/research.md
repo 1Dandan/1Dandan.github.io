@@ -8,7 +8,7 @@ author_profile: true
 
 My current research focuses on the application and development of air quality modeling in combination with ground-based and satellite observations. Specifically, I use a chemical transport model [GEOS-Chem](https://geoschem.github.io/index.html) in its high-performance configuration (GCHP) to understand the effects of model spatial resolution on population exposure to air pollutants, investigate different emission source contributions to surface air pollution, and improve model aerosol, specifically mineral dust simulation against ground-based and satellite observations.
 
-<ol>
+<ol reversed>
 <li style="padding-left: 6px;font-weight:bold;">
 <b> Impact of Model Spatial Resolution on Satellite-Derived PM<sub>2.5</sub> </b>
 <b style="font-weight: normal">
@@ -17,7 +17,7 @@ My current research focuses on the application and development of air quality mo
 <p style="display:inline-block;font-weight: normal;">
 <img src="/images/2024_ESTAir_Zhang.png" align="right" class="inline" width=500 height="auto" />
 
-Global geophysical satellite-derived ambient fine particulate matter (PM<sub>2.5</sub>) inference relies upon a geophysical relationship (<i>&#951;</i>) from a chemical transport model to relate satellite retrievals of aerosol optical depth (AOD) to surface PM<sub>2.5</sub>. The resolution dependence of simulated η warrants further investigation. We found remarkable similarity (<i>R</i><sup>2</sup> = 0.96, slope = 1.03) of annual geophysical PM<sub>2.5</sub> across GCHP resolutions at ~25 km and ~200 km. This similarity in part reflects opposite resolution responses across components with increasing by 5% to 11% for primary species while decreasing by &minus;30% to &minus;5% for secondary species at fine resolution. Nonetheless, our results also identify larger resolution sensitivities of <i>&#951;</i> over isolated pollution sources and mountainous regions, where spatial contrast of aerosol concentration and composition are better represented at fine resolution. Our results highlight the resolution-dependence of representing near-surface concentrations and the vertical distribution of chemically different species with implications for inferring ground-level PM<sub>2.5</sub> from columnar AOD. 
+Global geophysical satellite-derived ambient fine particulate matter (PM<sub>2.5</sub>) inference relies upon a geophysical relationship (<i>&#951;</i>) from a chemical transport model to relate satellite retrievals of aerosol optical depth (AOD) to surface PM<sub>2.5</sub>. The resolution dependence of simulated <i>&#951;</i> warrants further investigation. We found remarkable similarity (<i>R</i><sup>2</sup> = 0.96, slope = 1.03) of annual geophysical PM<sub>2.5</sub> across GCHP resolutions at ~25 km and ~200 km. This similarity in part reflects opposite resolution responses across components with increasing by 5% to 11% for primary species while decreasing by &minus;30% to &minus;5% for secondary species at fine resolution. Nonetheless, our results also identify larger resolution sensitivities of <i>&#951;</i> over isolated pollution sources and mountainous regions, where spatial contrast of aerosol concentration and composition are better represented at fine resolution. Our results highlight the resolution-dependence of representing near-surface concentrations and the vertical distribution of chemically different species with implications for inferring ground-level PM<sub>2.5</sub> from columnar AOD. 
 </p>
 </li>
 

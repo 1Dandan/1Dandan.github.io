@@ -8,4 +8,4 @@ date: 2020-09-14
 location: "St. Louis, USA"
 ---
 
-I was one of the teaching assistants. This course examines chemical reactions relevant to natural and engineered aquatic systems with an analytical emphasis on chemical equalibrium and kinetics. 
+I was one of the teaching assistants. This course examines chemical reactions relevant to natural and engineered aquatic systems with an analytical emphasis on chemical equilibrium and kinetics. 
