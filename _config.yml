@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Dandan Zhang"
 title_separator          : "-"
 name                     : &name "Dandan Zhang"
-description              : &description "PhD Student"
+description              : &description "Postdoctoral Fellow"
 url                      : https://1dandan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "1dandan/1dandan.github.io"
@@ -23,12 +23,12 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Dandan Zhang"
-  pronouns         : "she/her"  
-  bio              : "PhD Student: Air Quality Modeling"
-  location         : "St. Louis, USA"
-  employer         : "Washington University in St. Louis"
+  pronouns         : "She/Her/Hers"  
+  bio              : "Postdoc: Methane Inversion"
+  location         : "Cambridge, USA"
+  employer         : "Harvard University"
   uri              : # URL
-  email            : "dandan.z@wustl.edu" 
+  email            : "dzhang@seas.harvard.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
