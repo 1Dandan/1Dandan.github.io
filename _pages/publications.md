@@ -12,6 +12,14 @@ author_profile: true
 Peer-reviewed
 -----
 <ol reversed>
+<li style="padding-left: 6px;"> <b>Zhang, D.</b>, Martin, R. V., Liu, X., van Donkelaar, A., Oxford, C. R., Li, Y., ... & Windwer, E. (2025). Improving annual fine mineral dust representation from the surface to the column in GEOS-Chem 14.4. 1. <i>Geoscientific Model Development</i>, 18(19), 6767-6803. [<a href="https://doi.org/10.5194/gmd-18-6767-2025">Link</a>] </li>
+
+<li style="padding-left: 6px;"> Singh, I., Martin, R. V., van Donkelaar, A., Li, C., Zhang, Y., Zhu, H., <b>Zhang, D.</b>, & Lyapustin, A. (2025). Effects of Fire Plume Height on the Geophysical Estimation of Surface Fine Particulate Matter from Satellite Aerosol Optical Depth during North American Wildfires. <i>ACS ES&T Air</i>. 2(10), 2071–2080. [<a href="https://doi.org/10.1021/acsestair.5c00035">Link</a>] </li>
+
+<li style="padding-left: 6px;"> Ren, Y., Oxford, C. R., <b>Zhang, D.</b>, Liu, X., Zhu, H., Dillner, A. M., ... & Martin, R. V. (2025). Black Carbon Emissions Generally Underestimated in the Global South As Revealed by Globally Distributed Measurements. <i>Nature Communications</i>, 16(1), 7010. [<a href="https://doi.org/10.1038/s41467-025-62468-5">Link</a>] </li>
+
+<li style="padding-left: 6px;"> Li, Y., Martin, R. V., Zhang, Y., <b>Zhang, D.</b>, van Donkelaar, A., Zhu, H., & Meng, J. (2025). Interpreting Measurements of the Global Diurnal Variation of Fine Particulate Matter Using the GEOS-Chem Model. <i>ACS ES&T Air</i>, 2(8), 1575-1585. [<a href="https://doi.org/10.1021/acsestair.5c00068">Link</a>] </li>
+
 <li style="padding-left: 6px;"> Lu, G., Marais, E. A., Vohra, K., Horner, R. P., <b>Zhang, D.</b>, Martin, R. V., & Guttikunda, S. (2025) Near-Automated Estimate of City Nitrogen Oxides Emissions Applied to South and Southeast Asia. <i>Journal of Geophysical Research: Atmospheres</i>, 130(2), e2024JD041000. [<a href="https://doi.org/10.1029/2024JD041000">Link</a>] </li>
 
 <li style="padding-left: 6px;"> Chatterjee, D., Martin, R. V., Li, C., <b>Zhang, D.</b>, Zhu, H., Henze, D. K., Crawford, J. H., Cohen, R. C., Lamsal, L. N., & Cede, A. M. (2024) Interpreting Summertime Hourly Variation of NO<sub>2</sub> Columns with Implications for Geostationary Satellite Applications. <i>Atmospheric Chemistry and Physics</i>, 24(22), 12687-12706. [<a href="https://doi.org/10.5194/acp-24-12687-2024">Link</a>] </li>
