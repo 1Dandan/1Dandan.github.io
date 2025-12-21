@@ -37,7 +37,7 @@ Accurate simulation of mineral dust remains challenging in global models due to 
 
 <p style="font-weight: normal;">
 <img src="{{ '/images/2024_ESTAir_Zhang.png' | relative_url }}" class="pub-figure-right" alt="Zhang et al., ACS ES&amp;T Air, 2024 figure">
-Satellite-derived PM<sub>2.5</sub> estimates rely on a model-based geophysical relationship linking aerosol optical depth to surface concentrations. Using GEOS-Chem in its high-performance configuration, we show that annual PM<sub>2.5</sub> inferred from this relationship is largely consistent between coarse (~200 km) and fine (~25 km) global simulations, but exhibits enhanced sensitivity near isolated pollution sources and complex terrain. These results highlight the role of model resolution in representing near-surface and vertical aerosol structure for satellite-based PM<sub>2.5</sub> inference.
+Satellite-derived PM<sub>2.5</sub> inference relies on a model-based geophysical relationship linking aerosol optical depth to surface concentrations. Using GEOS-Chem in its high-performance configuration, we show that annual PM<sub>2.5</sub> inferred from this relationship is largely consistent between coarse (~200 km) and fine (~25 km) global simulations, but exhibits enhanced sensitivity near isolated pollution sources and complex terrain. These results highlight the role of model resolution in representing near-surface and vertical aerosol structure for satellite-based PM<sub>2.5</sub> inference.
 </p>
 </li>
 
