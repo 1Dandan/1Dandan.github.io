@@ -16,7 +16,7 @@ Prior research focuses on the application and development of air quality modelin
 <b> Improving Annual Fine Mineral Dust Representation from the Surface to the Column in GEOS-Chem 14.4.1</b><br>
 <b style="font-weight: normal">
   (<a href="https://doi.org/10.5194/gmd-18-6767-2025">
-    Zhang et al., <i>Geoscientific Model Development</i>, 2025
+    Zhang et al., <i>Geosci. Model Dev.</i>, 2025
   </a>)
 </b>
 
