@@ -9,6 +9,30 @@
  *  - https://twitter.com/mmistakes
  *
 */
+.pub-figure-right{
+  float: right;
+  width: min(460px, 40%);
+  height: auto;
+  display: block;
+
+  margin: 0.2rem 0 0.8rem 1.2rem; /* top right bottom left */
+
+  position: relative;  
+  top: 4px;             
+}
+
+@media (max-width: 900px){
+  .pub-figure-right{
+    float: none;
+    display: block;
+    width: 100%;
+    max-width: 520px;
+    margin: 0.8rem auto;
+
+    position: static;
+    top: auto;
+  }
+}
 
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
