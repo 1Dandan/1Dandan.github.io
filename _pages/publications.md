@@ -12,7 +12,7 @@ author_profile: true
 Peer-reviewed
 -----
 <ol reversed>
-<li style="padding-left: 6px;"> <b>Zhang, D.</b>, Martin, R. V., Liu, X., van Donkelaar, A., Oxford, C. R., Li, Y., ... & Windwer, E. (2025). Improving annual fine mineral dust representation from the surface to the column in GEOS-Chem 14.4. 1. <i>Geoscientific Model Development</i>, 18(19), 6767-6803. [<a href="https://doi.org/10.5194/gmd-18-6767-2025">Link</a>] </li>
+<li style="padding-left: 6px;"> <b>Zhang, D.</b>, Martin, R. V., Liu, X., van Donkelaar, A., Oxford, C. R., Li, Y., ... & Windwer, E. (2025). Improving annual fine mineral dust representation from the surface to the column in GEOS-Chem 14.4.1. <i>Geoscientific Model Development</i>, 18(19), 6767-6803. [<a href="https://doi.org/10.5194/gmd-18-6767-2025">Link</a>] </li>
 
 <li style="padding-left: 6px;"> Singh, I., Martin, R. V., van Donkelaar, A., Li, C., Zhang, Y., Zhu, H., <b>Zhang, D.</b>, & Lyapustin, A. (2025). Effects of Fire Plume Height on the Geophysical Estimation of Surface Fine Particulate Matter from Satellite Aerosol Optical Depth during North American Wildfires. <i>ACS ES&T Air</i>. 2(10), 2071–2080. [<a href="https://doi.org/10.1021/acsestair.5c00035">Link</a>] </li>
 
